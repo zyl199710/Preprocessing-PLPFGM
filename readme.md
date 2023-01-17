@@ -14,7 +14,7 @@ As for the Enron dataset, we select a [network version](https://github.com/mizvo
 We got the Epinions dataset from https://snap.stanford.edu/data/index.html#signnets
 
 
-##Reference
+## Reference
 
 <div id="refer-anchor-1"></div>
 
