@@ -6,12 +6,12 @@ The preprocessing code was not provided in the original article, so we reproduce
 
 
 ## Dataset
-### Coauther
-The Coauthor dataset was got from Chi Wang.
-### Enron
-As for the Enron dataset, we select a [network version](https://github.com/mizvol/enron-email-network-analysis), that originated from [an original Enron dataset](https://www.cs.cmu.edu/~enron/). 
-### Epinions
-We got the Epinions dataset from https://snap.stanford.edu/data/index.html#signnets
+
+- Coauther. The Coauthor dataset was got from Chi Wang.
+
+- Enron. As for the Enron dataset, we select a [network version](https://github.com/mizvol/enron-email-network-analysis), that originated from [an original Enron dataset](https://www.cs.cmu.edu/~enron/). 
+
+- Epinions. We got the Epinions dataset from https://snap.stanford.edu/data/index.html#signnets
 
 
 ## Reference
